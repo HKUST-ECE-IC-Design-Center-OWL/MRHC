@@ -15,5 +15,6 @@ innovations in indoor navigation, multi-agent systems, 3D perception, and 360° 
 for emerging applications in localization, robotics, and immersive analytics. The methodologies presented provide
 comprehensive solutions to key challenges in these domains.
 ## Paper Entry
+Published on International Workshop on Signal Processing and Machine Learning (WSPML), SPIE, 2023.
 * [Google Scholar](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=gcFvb3avXYEC&sortby=pubdate&citation_for_view=gcFvb3avXYEC:ce2CqMG-AY4C)
 * [SPIE Digital Library](http://dx.doi.org/10.1117/12.3017942)
